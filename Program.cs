@@ -6,7 +6,7 @@ namespace vim_lsp_repro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Type `Array.Sort(` below
         }
     }
 }
